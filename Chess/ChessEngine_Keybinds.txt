@@ -1,0 +1,2 @@
+"LEFT ARROW" : undo move
+"r" : reset board to starting position
